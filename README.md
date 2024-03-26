@@ -34,3 +34,9 @@ check the remote repository connected to the local repository
 ## New Feature Branch
 
 1. Idk man.
+
+//COMMANDS
+//git merge, merges branches
+//git diff, compares two version of files
+
+// The more common way is to push and make a PR (merging)
